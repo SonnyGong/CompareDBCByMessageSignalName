@@ -51,5 +51,5 @@ Message / Signal Comparison Report
 ![SCR-20250403-sjig](pages/DBC_COMPARE/SCR-20250403-sjig.png)
 
 ## License / 许可证
-MIT Licensed. See [LICENSE](LICENSE.txt) for details.
-MIT 许可证，详见[LICENSE](LICENSE.txt)文件。
+MIT Licensed. See [LICENSE](LICENSE) for details.
+MIT 许可证，详见[LICENSE](LICENSE)文件。
