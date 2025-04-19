@@ -5,6 +5,9 @@
 [![中文文档](https://img.shields.io/badge/lang-zh-red.svg)](#)
 [![English](https://img.shields.io/badge/lang-en-blue.svg)](#)
 
+---
+## Demo_Url / 直接使用链接
+https://comparedbc.streamlit.app/
 
 ---
 
